@@ -1,0 +1,5 @@
+com\virtusa\scope\SessionScope.class
+com\virtusa\SpringBeanScope\SpringBeanScopeApplication.class
+com\virtusa\pojo\Customer.class
+com\virtusa\scope\RequestScope.class
+com\virtusa\controller\Data.class
